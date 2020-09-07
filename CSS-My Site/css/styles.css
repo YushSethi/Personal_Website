@@ -1,0 +1,149 @@
+a {
+  color: #393b44;
+  font-family: 'Oxygen', sans-serif;
+  padding: 50px 30px;
+  text-decoration: none;
+  font-size: 1.5rem;
+  margin: 10px;
+}
+a:hover{
+  color: white;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+hr {
+  border-width: 5px 0 0 0;
+  border-style: dotted;
+  width: 60px;
+  border-color: green;
+}
+
+h1 {
+  font-family: 'Oxygen', sans-serif;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-family: 'Oxygen', sans-serif;
+  color: #133b5c;
+}
+
+h3 {
+  color: #1e5f74;
+  font-family: 'Oxygen', sans-serif;
+}
+
+p {
+  font-family: 'Oxygen', sans-serif;
+  color: #40514e;
+  padding: 10px;
+  line-height: 2;
+}
+
+div {
+  padding: 20px;
+}
+
+.TopContainer {
+  padding: 20px;
+  padding-bottom: 50px;
+  background-color: #a2d5f2;
+}
+
+.cat {
+  opacity: 0.9;
+  height: 250px;
+  margin: 8px;
+}
+
+.heading1 {
+  font-size: 6rem;
+  margin-bottom: 5px;
+  font-family: 'Dancing Script', cursive;
+  color: #393b44;
+  position: relative;
+  bottom: 22px;
+  display: inline-block;
+}
+
+.heading2 {
+  font-weight: normal;
+  margin-top: 5px;
+}
+
+.buildings {
+  opacity: 0.7;
+  height: 250px;
+  margin: 8px auto 0 auto;
+}
+
+.skill-row {
+  margin: 100px auto;
+  width: 50%;
+  text-align: left;
+}
+
+.ux-pic {
+  margin: 0 30px 0 0;
+  float: left;
+  height: 160px;
+}
+
+.code-pic {
+  margin: 0 0 0 30px;
+  float: right;
+  height: 160px;
+}
+
+.middle-container {
+  padding: 10px;
+}
+
+.bottom-container {
+  padding: 30px;
+  background-color: #a2d5f2;
+}
+
+.footerpara {
+  color: white;
+  font-size: 10px;
+  padding-top: 10px;
+}
+
+.btn {
+  background: linear-gradient(to bottom, #0085eb 5%, #0099ff 100%);
+  background-color: #0085eb;
+  border-radius: 12px;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 28px;
+  padding: 8px 19px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: linear-gradient(to bottom, #0099ff 5%, #0085eb 100%);
+  background-color: #0099ff;
+}
+
+.btn:active {
+  position: relative;
+  top: 1px;
+}
+
+.intropara {
+  width: 30%;
+  margin: auto;
+}
+
+footer {
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
